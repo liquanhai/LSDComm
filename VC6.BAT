@@ -1,0 +1,10 @@
+@echo on
+del *.bsc/s
+del *.exp/s
+del *.idb/s
+del *.ilk/s
+del *.ncb/s
+del *.obj/s
+del *.pch/s
+del *.pfx/s
+del *.sbr/s
